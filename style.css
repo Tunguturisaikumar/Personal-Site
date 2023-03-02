@@ -1,0 +1,175 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    position: relative;
+}
+.dp {
+    height: 300px;
+    width: 300px;
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p {
+    list-style: 2;
+}
+
+hr {
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    border-width: 10px;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.forward-arrow {
+    height: 100px;
+    width: 100px;
+}
+.middle-container {
+    margin: 100px auto;
+}
+.top-cloud {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 230px;
+    top: 10px;
+}
+.bottom-cloud {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    bottom: 200px; 
+
+}
+.skill-row {
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+    
+}
+.skill-img1 {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.skill-img2 {
+    width: 15%;
+    float: right;
+    margin-left: 20px;
+}
+.skill-img3 {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+
+}
+.project-row {
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+    
+}
+
+
+
+.project1 {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+.project2 {
+    width: 15%;
+    float: right;
+    margin-left: 20px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.footer-link {
+    color: #11999E;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #EAF6F6;
+} 
+.contact-me {
+    margin: 50px auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.bottom-container-description {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
